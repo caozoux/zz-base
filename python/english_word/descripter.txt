@@ -1,0 +1,2 @@
+python 运行e_word.py
+30秒显示 word_list.txt的单词
